@@ -57,7 +57,7 @@ class Engineer:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnlkamchubekov-cyber&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  <img src="https://ghchart.rshah.org/36BCF7/dnlkamchubekov-cyber" width="100%" alt="activity graph"/>
 </p>
 
 ---
